@@ -1,0 +1,7 @@
+{
+  "name": "boilerplate-storybook-jest-styled-components-eslint-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucas-godinho/boilerplate-storybook-jest-styled-components-eslint-prettier.git",
+  "license": "MIT"
+}
